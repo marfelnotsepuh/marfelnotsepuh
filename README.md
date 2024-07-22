@@ -7,7 +7,7 @@ $ pkg install curl
 $ pkg install php7
 
 # Install tools
-$ git clone https://github.com/GusSamsudin/marfel
+$ git clone https://github.com/marfelnotsepuh/marfel
 
 $ cd tri
 
